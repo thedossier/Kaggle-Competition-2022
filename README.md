@@ -7,3 +7,8 @@ Working on getting the other files uploaded. Still learning how to use the githu
 
 Link to the Jupyter Notebook containing the python coding and explainaitons.
 https://github.com/thedossier/Kaggle-Competition-2022/tree/master/.vscode/Kaggle%20Competition
+
+
+<br>
+Link to competition: https://www.kaggle.com/competitions/nature-never-goes-out-of-style
+
